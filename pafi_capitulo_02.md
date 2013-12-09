@@ -1,6 +1,6 @@
 # Resumo Prova Unidade I
 
-## Capítulo 1
+## Capítulo 2
 
 ### Critérios de qualidade de uso em IHC
 
