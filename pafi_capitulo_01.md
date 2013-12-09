@@ -24,9 +24,9 @@
 
 - Estar ciente de que seu trabalho afeta a vida das pessoas
 - Tentar prever os impactos do seu trabalho para
--- Encaminhar boas intervenções/soluções
--- Diminuir os impactos negativos previstos
--- Fornecer salvaguardas para impactos negativos imprevistos
+  - Encaminhar boas intervenções/soluções
+  - Diminuir os impactos negativos previstos
+  - Fornecer salvaguardas para impactos negativos imprevistos
 
 ### Diferentes visões sobre sistemas interativos
 
