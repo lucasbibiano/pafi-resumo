@@ -51,4 +51,14 @@ São 4 princípios éticos
 - Os participantes devem ter **autonomia** plena para serem capazes de decidir participar ou não da pesquisa.
 - Antes de começar a pesquisa, o pesquisador deve combinar com o participante formas de incentivo à participação da avaliação.
 
-### 
+### Como coletar dados dos usuários?
+
+São 7 formas de coletar dados:
+
+- Entrevistas
+- Grupos de foco
+- Questionários
+- Brainstorming de necessidades e desejos dos usuários
+- Classficações de cartões
+- Estudos de campo
+- Investigação contextual
