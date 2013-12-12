@@ -62,3 +62,13 @@ São 7 formas de coletar dados:
 - Classficações de cartões
 - Estudos de campo
 - Investigação contextual
+
+#### Entrevistas
+- Objetivo
+  - Coletar informações detalhadas e profundas de usuários individuais
+- Vantagens
+  - Permite coletar muitas informações dos usuários individualmente
+  - Flexível, permite fazer perguntas de follow-up e se aprofundar mais do que questionários ou grupos de estudos
+- Esforço
+  - É necessário treinar os entrevistadores
+  - Leva tempo para entrevistar muitos usuários
