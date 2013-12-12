@@ -9,7 +9,7 @@
 - Síntese de uma intervenção
   - Planejar e executar uma intervenção na situação ideal
 - Avaliação da nova situação
-  - Verificar o efeito da intervenção, comparando a intervenção analisada anteriormente com a nova situação, atingida após a intervençãi
+  - Verificar o efeito da intervenção, comparando a intervenção analisada anteriormente com a nova situação, atingida após a intervenção
 
 ### Engenharia de usabilidade de Nielsen
 
