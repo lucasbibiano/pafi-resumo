@@ -1,6 +1,6 @@
 ## Capítulo 08
 
-### Princípios e Diretrizes Gerais
+### Princípios e Diretrizes Gerais do IHC
 
 - Correspondências com as Expectativas dos Usuários
   - O usuário deve saber o que cada estrutura faz
