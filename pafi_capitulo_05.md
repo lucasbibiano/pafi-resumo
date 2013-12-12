@@ -47,4 +47,8 @@ São 4 princípios éticos
 - É necessário **obter permissão para gravar** a voz ou imagem de qualquer pessoa, antes de começar a gravação.
 - A participação da pesquisa deve ocorrer apenas com o **consentimento livre e esclarecido** dos participantes.
 - O **conforto dos participantes** deve ser cuidadosamente considerado.
-- O participante tem o **direito e a liberdade de se recusar a participar em qualquer fase da pesquisa**
+- O participante tem o **direito e a liberdade de se recusar a participar em qualquer fase da pesquisa**.
+- Os participantes devem ter **autonomia** plena para serem capazes de decidir participar ou não da pesquisa.
+- Antes de começar a pesquisa, o pesquisador deve combinar com o participante formas de incentivo à participação da avaliação.
+
+### 
