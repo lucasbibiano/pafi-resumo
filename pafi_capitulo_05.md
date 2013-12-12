@@ -42,7 +42,7 @@ São 4 princípios éticos
 ### 4. Diretrizes de pesquisa de IHC
 
 - O pesquisador deve **explicar os objetivos** da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles
-- O pesquisador deve **garantir a confiencialidade e privacidade** dos dados brutos coletados.
+- O pesquisador deve **garantir a confidencialidade e privacidade** dos dados brutos coletados.
 - O pesquisador deve **garantir o anonimato** dos voluntários, a preservação de suas imagens e a utilização cuidadosa das informações coletadas.
 - É necessário **obter permissão para gravar** a voz ou imagem de qualquer pessoa, antes de começar a gravação.
 - A participação da pesquisa deve ocorrer apenas com o **consentimento livre e esclarecido** dos participantes.
