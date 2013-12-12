@@ -39,12 +39,12 @@ São 4 princípios éticos
 - Princípio da Justiça e Equidade
   - relevância social da pesquisa com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis.
 
-  ### Diretrizes de pesquisa de IHC
+### Diretrizes de pesquisa de IHC
 
-  - O pesquisador deve **explicar os objetivos** da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles
-  - O pesquisador deve **garantir a confiencialidade e privacidade** dos dados brutos coletados.
-  - O pesquisador deve **garantir o anonimato** dos voluntários, a preservação de suas imagens e a utilização cuidadosa das informações coletadas.
-  - É necessário **obter permissão para gravar** a voz ou imagem de qualquer pessoa, antes de começar a gravação.
-  - A participação da pesquisa deve ocorrer apenas com o **consentimento livre e esclarecido** dos participantes.
-  - O **conforto dos participantes** deve ser cuidadosamente considerado.
-  - O participante tem o **direito e a liberdade de se recusar a participar em qualquer fase da pesquisa**
+- O pesquisador deve **explicar os objetivos** da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles
+- O pesquisador deve **garantir a confiencialidade e privacidade** dos dados brutos coletados.
+- O pesquisador deve **garantir o anonimato** dos voluntários, a preservação de suas imagens e a utilização cuidadosa das informações coletadas.
+- É necessário **obter permissão para gravar** a voz ou imagem de qualquer pessoa, antes de começar a gravação.
+- A participação da pesquisa deve ocorrer apenas com o **consentimento livre e esclarecido** dos participantes.
+- O **conforto dos participantes** deve ser cuidadosamente considerado.
+- O participante tem o **direito e a liberdade de se recusar a participar em qualquer fase da pesquisa**
