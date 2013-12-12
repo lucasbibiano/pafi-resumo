@@ -1,6 +1,6 @@
 ## Capítulo 05
 
-### Que dados coletar?
+### 1. Que dados coletar?
 
 São 15 itens:
 
@@ -20,13 +20,13 @@ São 15 itens:
 - Motivação para o trabalho
 - Idiomas e jargões
 
-### De quem coletar os dados?
+### 2. De quem coletar os dados?
 
 - Usuários primários
 - Usuários secundários
 - Stakeholders
 
-### Aspectos Éticos de Pesquisas Envolvendo Pessoas
+### 3. Aspectos Éticos de Pesquisas Envolvendo Pessoas
 
 São 4 princípios éticos
 
@@ -39,7 +39,7 @@ São 4 princípios éticos
 - Princípio da Justiça e Equidade
   - relevância social da pesquisa com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis.
 
-### Diretrizes de pesquisa de IHC
+### 4. Diretrizes de pesquisa de IHC
 
 - O pesquisador deve **explicar os objetivos** da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles
 - O pesquisador deve **garantir a confiencialidade e privacidade** dos dados brutos coletados.
@@ -51,7 +51,7 @@ São 4 princípios éticos
 - Os participantes devem ter **autonomia** plena para serem capazes de decidir participar ou não da pesquisa.
 - Antes de começar a pesquisa, o pesquisador deve combinar com o participante formas de incentivo à participação da avaliação.
 
-### Como coletar dados dos usuários?
+### 5. Como coletar dados dos usuários?
 
 São 7 formas de coletar dados:
 
@@ -63,7 +63,7 @@ São 7 formas de coletar dados:
 - Estudos de campo
 - Investigação contextual
 
-#### Entrevistas
+#### 5.1 Entrevistas
 - Objetivo
   - Coletar informações detalhadas e profundas de usuários individuais
 - Vantagens
@@ -73,7 +73,7 @@ São 7 formas de coletar dados:
   - É necessário treinar os entrevistadores
   - Leva tempo para entrevistar muitos usuários
 
-#### Questionários
+#### 5.2 Questionários
 - Objetivo
   - Coletar rapidamente dados de muitos usuários
 - Vantagens
@@ -84,3 +84,43 @@ São 7 formas de coletar dados:
   - Avaliador deve ser experiente para evitar perguntas redudantes ou que induzem respostas
   - na Web, requer pouco esforço de distribuição
 
+#### 5.3 Grupos de Foco
+- Objetivo
+  - Avaliar atitudes, opniões e impressões dos usuários
+- Vantagens
+  - Permite coletar informações de muitos usuários simultaneamente
+  - Dispara novas ideias
+- Esforço
+  - Recrutar usuários suficientes pode requerer muitos recursos
+
+#### 5.4 Brainstorming
+- Objetivo
+  - Coletar uma lista de prioridades das necessidades e desejos dos usuários
+- Vantagens
+  - Pode-se preparar, conduzir e analisar dados da atividade em pouco tempo e com poucos recursos
+- Esforço
+  - Moderação em grupo requer um esforço razoável
+  - Recrutar usuários suficientes pode requerer muitos recursos
+  - Pouco esforço pra conduzir e analisar os dados
+
+#### 5.5 Classificação de Cartões
+- Objetivo
+  - Identificar como os usuários agrupam informações ou objetos
+- Vantagens
+  - Técnica simples
+  - Se feita em grupo, permite coletar dados de vários usuários de uma vez
+  - Motiva a própria equipe a detalhar a detalhar o produto em componentes
+- Esforço
+  - Esforço de detalhar informações e definições
+  - Baixo esforço de condução
+  - Esforço para análise dependende da ferramenta, número de cartões e de participantes
+
+#### 5.6 Estudo de campo e investigação contextual
+- Objetivo
+  - Entender usuários, seu ambiente e suas tarefas em contexto
+- Vantagens
+  - Permite descobrir o que se faz de fato
+  - Permite coletar muitos dados
+  - Validade ecológica
+- Esforço
+  - Nível de esforço mais alto para preparar as visitas, conduzir e analisar os dados
