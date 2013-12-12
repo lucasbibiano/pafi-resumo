@@ -72,3 +72,15 @@ São 7 formas de coletar dados:
 - Esforço
   - É necessário treinar os entrevistadores
   - Leva tempo para entrevistar muitos usuários
+
+#### Questionários
+- Objetivo
+  - Coletar rapidamente dados de muitos usuários
+- Vantagens
+  - Permite coletar informações de muitos usuários
+  - Pode ser fácil e rápido de analisar os dados
+  - Relativamente baratos
+- Esforço
+  - Avaliador deve ser experiente para evitar perguntas redudantes ou que induzem respostas
+  - na Web, requer pouco esforço de distribuição
+
